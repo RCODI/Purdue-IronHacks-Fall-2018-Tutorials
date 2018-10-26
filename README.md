@@ -1,159 +1,138 @@
-# Purdue-IronHacks-Fall-2018-Tutorials 
+Purdue-IronHacks-Fall-2018-Tutorials
+Welcome to the Purdue Gold IronHacks - Fall 2018! Next, you will find several turorial videos related to the knowledge necessary to solve the programming challenge that you will have to face. We ask everyone to review all the material before the start of the competition. The competition will begin on October 29.
 
-Bienvenidos al Purdue Gold IronHacks - Otoño 2018! A continuación, encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revisen todo el material antes del inicio de la competencia. La competencia iniciará el 29 de octubre.
-## Sesión 1
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lúnes 29 de Octubre)</small></i><br>
-
-### Tutorial HTML - CSS
-
-#### Video tutorial - Introducción a HTML y CSS:
-**[HTML y CSS](https://youtu.be/o74YX3koXPY)**<br>
-**[Código fuente](https://drive.google.com/open?id=1gHft7-QynAnQo3R-UIA58BzMfhMCAinz)** -- Código fuente usado en el vídeo. 
-
-#### Video tutorial - Introducción a Bootstrap:
-**[Bootstrap](https://youtu.be/IdUHGzKSoBI)**<br>
-**[Código fuente](https://drive.google.com/open?id=1-I2X5L30hWOy16AyUJ4jK4Sye0KsSejm)** -- Código fuente usado en el vídeo. 
-
-### Recursos adicionales:
-
-#### Web oficial de Bootstrap<br>
-**[Bootstrap](http://getbootstrap.com/)** <br>
-#### Documentación oficial HTML - Mozilla Developer Network
-**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)**<br>
-#### Documentación oficial CSS - Mozilla Developer Network
-**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)**<br>
-#### Tutorial de HTML - w3schools.com
-**[w3schools - HTML](http://www.w3schools.com/html/)**<br>
-#### Tutorial de CSS - w3schools.com
-**[w3schools - CSS](http://www.w3schools.com/css/)**<br>
-
-### Quiz sesión 1:
-**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase.<br>
-<!-- 
-### Social Coding Platform
-
-You are required to submit code to our system using our social coding platform <br>
+Session 1
 
 
-**[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
-**[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
--->
-<!--
-javascript https://youtu.be/own5pcZ6MZc
-d3.js https://youtu.be/0_ZAc1pkaY8
-html css https://youtu.be/o74YX3koXPY
-bootstrap https://youtu.be/IdUHGzKSoBI
-google maps https://youtu.be/hwfrZkxLybM
--->
-## Sesión 2
-<i><small>Grupos 1 y 2 (Profesor Nicolás) miércoles 31 de Octubre - 4:00pm - 6:00pm)</small></i><br>
+HTML Tutorial - CSS
+Video tutorial - Introduction to HTML and CSS:
+HTML and CSS 
+Source code - Source code used in the video.
 
-### Tutorial Javascript - jQuery
+Video tutorial - Introduction to Bootstrap:
+Bootstrap 
+Source code - Source code used in the video.
 
-#### Video tutorial - Introducción a Javascript y jQuery:
-**[Javascript/jQuery](https://youtu.be/own5pcZ6MZc)** -- Introducción a Javascript <br>
-**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo. 
+Additional resources:
+Bootstrap official website
+Bootstrap 
 
-### Recursos adicionales:
+Official HTML documentation - Mozilla Developer Network
+HTML docs - MDN
 
-#### Documentación oficial JS - Mozilla Developer Network<br>
-**[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**<br>
-#### Documentación oficial jQuery
-**[jQuery Docs](https://api.jquery.com/)**<br>
-#### Tutorial de Javascrip - w3schools.com
-**[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
+Official CSS documentation - Mozilla Developer Network
+HTML docs - MDN
 
-### Quiz sesión 2:
-**[Quiz - Javascript](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
+HTML Tutorial - w3schools.com
+w3schools - HTML
 
-## Sesión 3
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 5 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+CSS Tutorial - w3schools.com
+w3schools - CSS
 
-### Tutorial Google Maps API
-**[Google Maps API](https://youtu.be/hwfrZkxLybM)**<br>
-**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo.
+Quiz session 1:
+Quiz - HTML & CSS : This quiz is MANDATORY and will have a note in the course. They must finish it BEFORE the class ends.
 
-### Recursos adicionales:
-**[Documentación Google Maps API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map)**<br>
+Session 2
+Groups 1 and 2 (Professor Nicolás) Wednesday October 31 - 4:00 pm - 6:00 pm)
 
-### Quiz sesión 3:
-**[Quiz - Google Maps API](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
+Javascript Tutorial - jQuery
+Video tutorial - Introduction to Javascript and jQuery:
+Javascript / jQuery - Introduction to Javascript
+Source code - Source code used in the video.
 
-## Sessión 4
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 5 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+Additional resources:
+JS official documentation - Mozilla Developer Network
+Javascript Docs
 
-### Tutorial D3.js
-**[D3.js](https://youtu.be/0_ZAc1pkaY8)** -- Introducción a D3.js<br>
-**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo.
+Official jQuery documentation
+jQuery Docs
 
-### Recursos adicionales:
-**[Web oficial D3.js](https://d3js.org/)**<br>
+Javascrip tutorial - w3schools.com
+w3schools - Javascript
 
-### Quiz sesión 4:
-**[Quiz - D3.js](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
+Quiz session 2:
+Quiz - Javascript : This quiz is COMPULSORY and will have a note in the course. They must finish it BEFORE the class ends, that is, before 6:00 p.m.
 
-## INFORMACIÓN ADICIONAL DE PREPARACIÓN
-<i><small>El concuso inicia el lunes 12 de Noviembre.</small></i><br>
+Session 3
+Groups 1 and 2 (Professor Nicolás) Monday, November 5 - 4:00 pm - 6:00 pm)
 
-Purdue Gold Ironhacks Otoño 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de [mashup](https://techterms.com/definition/mashup)**
+Google Maps API Tutorial
+Google Maps API 
+Source code - Source code used in the video.
 
-### 1. Datasets
+Additional resources:
+Google Maps API documentation
 
-El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de datos abiertos en la solución del problema, a continuación encontrarán una lista de los datasets disponibles para ser utilizados:
+Quiz session 3:
+Quiz - Google Maps API : This quiz is MANDATORY and will have a note in the course. They must finish it BEFORE the class ends, that is, before 6:00 p.m.
 
-- **[Lista de datasets]()**
+Session 4
+Groups 1 and 2 (Professor Nicolás) Monday, November 5 - 4:00 pm - 6:00 pm)
 
-Además de eso, el uso de los siguientes datasets es obligatorio:
-- **[Datasets Obligatorios]()** <br>
+Tutorial D3.js
+D3.js - Introduction to D3.js
+Source code - Source code used in the video.
 
-Si quieres aprender más sobre fuentes de datos libres, vista:
-- **[Data.gov](https://www.data.gov)** -- Official site of the US Government
-- **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
+Additional resources:
+Official website D3.js
 
-Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
+Quiz session 4:
+Quiz - D3.js : This quiz is COMPULSORY and will have a note in the course. They must finish it BEFORE the class ends, that is, before 6:00 p.m.
 
-### 2. Librerías permitidas:
+ADDITIONAL PREPARATION INFORMATION
+The concuso begins on Monday, November 12.
 
-El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
+Purdue Gold Ironhacks Fall 2018 requires the development of a mashup, below you can find the mashup defición **
 
-- **[Lista de librerías](https://docs.google.com/document/d/1q1ZeBq49WPHpAJ1b7rAXogD5UiNubilQss4Wc_4-bGc/edit?usp=sharing)**
+1. Datasets
+The Ironhacks gift demarcates as a MANDATORY requirement the use of open data in the solution of the problem, below you will find a list of available datasets to be used:
 
-### 3. Archivo Readme.md
-Por favor asegurense de que su proyecto contenga un archivo readme que siga la siguiente estructura:
-**[Example README](readme_template)**<br>
-El archivo readme DEBE ser escrito en inglés.
+List of datasets
+In addition to that, the use of the following datasets is mandatory:
 
+Mandatory Datasets 
+If you want to learn more about free data sources, view:
 
-## Sesiones de apoyo durante el desarrollo del concurso:
-### Sesión de apoyo 1
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 12 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+Data.gov - Official site of the US Government
+Open Indy Data Portal - Official site of the State of Indiana for open data
+You can read a bit more about datasets here.
 
-#### Diseño I:
-En esta sesión se hablará sobre pricipios de diseño y usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
-**[Elementos de diseño](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)**<br>
-**[Principios de diseño](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)**
+2. Allowed libraries:
+The contest has a specific list of libraries that can be used to solve the challenge. The use of libraries other than those found in the list will be penalized.
 
-#### Material de apoyo:
-**[Video sobre usabilidad 1](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)**<br><br>
-**[Video sobre usabilidad 2](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)**<br>
+List of libraries
+3. Readme.md file
+Please make sure that your project contains a readme file that follows the following structure: Example README
+The readme file MUST be written in English.
 
-### Sesión de apoyo 2
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 12 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+Support sessions during the development of the contest:
+Support session 1
+Groups 1 and 2 (Professor Nicolás) Monday November 12 - 4:00 pm - 6:00 pm)
 
-En esta sesión se atenderán dudas sobre visualización de información, además, el estudiante emajador brindará apoyo técnico para la solución del problema.
+Design I:
+In this session will talk about design principles and usability, then you can enter support material for this stage: Design elements Design 
+principles
 
-### Sesión de apoyo 3
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 19 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+Support material:
+Video about usability 1 
 
-#### Diseño II:
-En esta sesión se hablará sobre usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
-**[Usability Heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)**
+Video about usability 2
 
-#### Material de apoyo:
-**[Video sobre usabilidad 3](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)**<br>
+Support session 2
+Groups 1 and 2 (Professor Nicolás) Monday November 12 - 4:00 pm - 6:00 pm)
 
-### Sesión de apoyo 4
-<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 19 de Noviembre - 4:00pm - 6:00pm)</small></i><br>
+In this session, doubts will be addressed about visualization of information, in addition, the emajador student will provide technical support for the solution of the problem.
 
+Support session 3
+Groups 1 and 2 (Professor Nicolás) Monday, November 19 - 4:00 pm - 6:00 pm)
 
-Esta es la última sesión de apoyo, los profesores encargados y el estudiante embajador los ayudarán a reolver los problemas que tengan antes de la última entrega. <br>
+Design II:
+In this session we will talk about usability, then you can enter support material for this stage: Usability Heuristics
+
+Support material:
+Video about usability 3
+
+Support session 4
+Groups 1 and 2 (Professor Nicolás) Monday, November 19 - 4:00 pm - 6:00 pm)
+
+This is the last support session, the teachers in charge and the student ambassador will help them to solve the problems they have before the last delivery. 
