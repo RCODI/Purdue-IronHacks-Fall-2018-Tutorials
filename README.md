@@ -16,7 +16,7 @@ Source code - Source code used in the video.
 
 Additional resources:
 Bootstrap official website
-Bootstrap 
+**[Bootstrap example](https://github.com/RCODI/polarbear_webpage/tree/master)**
 
 #### Official HTML documentation - Mozilla Developer Network
 **[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)**<br>
