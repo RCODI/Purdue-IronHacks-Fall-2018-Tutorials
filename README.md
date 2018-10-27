@@ -31,7 +31,7 @@ Bootstrap official website
 **[w3schools - CSS](http://www.w3schools.com/css/)**<br>
 
 #### Quiz session 1:
-[Quiz - HTML & CSS](https://purdue.ca1.qualtrics.com/jfe/form/SV_9TFhfYc9kQx8e6V)
+[Quiz - HTML & CSS](https://purdue.ca1.qualtrics.com/jfe/form/SV_9TFhfYc9kQx8e6V)  
 [Quiz - Bootstrap](https://purdue.ca1.qualtrics.com/jfe/form/SV_8kLEGnWYncFp4Q5)
 This quiz is MANDATORY. They must finish it BEFORE the session ends.
 
@@ -76,5 +76,5 @@ Design principles
 
 ### Support material:
 **Video about usability 1  (https://www.youtube.com/watch?v=Rlip6LSp5iA)**<br><br>
-** Video about usability 2 (https://www.youtube.com/watch?v=rT4sqdtvoL8)**<br>
+**Video about usability 2 (https://www.youtube.com/watch?v=rT4sqdtvoL8)**<br>
 **[Video about usability 3](https://www.youtube.com/watch?v=PcS8dRvDNjI&t=175s)**<br>
