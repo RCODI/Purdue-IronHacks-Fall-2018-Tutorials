@@ -1,5 +1,5 @@
 # Purdue-IronHacks-Fall-2018-Tutorials
-Welcome to the Purdue Gold IronHacks - Fall 2018! 
+Welcome to the Purdue IronHacks - Fall 2018! 
 
 Next, you will find several turorial videos related to the knowledge necessary to solve the programming challenge that you will have to face. We ask everyone to review all the material before the start of the competition.
 
@@ -31,7 +31,8 @@ Bootstrap official website
 **[w3schools - CSS](http://www.w3schools.com/css/)**<br>
 
 #### Quiz session 1:
-Quiz - HTML & CSS : 
+[Quiz - HTML & CSS](https://purdue.ca1.qualtrics.com/jfe/form/SV_9TFhfYc9kQx8e6V)
+[Quiz - Bootstrap](https://purdue.ca1.qualtrics.com/jfe/form/SV_8kLEGnWYncFp4Q5)
 This quiz is MANDATORY. They must finish it BEFORE the session ends.
 
 ## Session 2
@@ -53,7 +54,8 @@ Official jQuery documentation
 **[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
 Quiz session 2:
-Quiz - Javascript : This quiz is MANDATORY. They must finish it BEFORE the session ends.
+[Quiz - Javascript](https://purdue.ca1.qualtrics.com/jfe/form/SV_d6vKYC5adH5eRO5)  
+This quiz is MANDATORY. They must finish it BEFORE the session ends.
 
 Tutorial D3.js
 
@@ -62,7 +64,8 @@ Tutorial D3.js
 Additional resources:
 **[Web oficial D3.js](https://d3js.org/)**<br>
 
-Quiz - D3.js : This quiz is MANDATORY. They must finish it BEFORE the session ends.
+[Quiz - D3.js](https://purdue.ca1.qualtrics.com/jfe/form/SV_3LfNqeEOUE1qRHT)   
+This quiz is MANDATORY. They must finish it BEFORE the session ends.
 
 ## Session 3
 
