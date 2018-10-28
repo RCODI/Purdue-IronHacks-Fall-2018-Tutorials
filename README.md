@@ -11,7 +11,7 @@ Video tutorial - Introduction to HTML and CSS:
 HTML and CSS example [here](https://github.com/RCODI/MrBean_table)
 
 #### Video tutorial - Introduction to Bootstrap:
-**[Bootstrap](https://youtu.be/IdUHGzKSoBI)**<br>
+**[Bootstrap](https://www.youtube.com/watch?v=sEEbVJk0Ovk)**<br>
 Source code - Source code used in the video.
 
 Additional resources:
@@ -33,14 +33,14 @@ Bootstrap official website
 #### Quiz session 1:
 [Quiz - HTML & CSS](https://purdue.ca1.qualtrics.com/jfe/form/SV_9TFhfYc9kQx8e6V)  
 [Quiz - Bootstrap](https://purdue.ca1.qualtrics.com/jfe/form/SV_8kLEGnWYncFp4Q5)
-This quiz is MANDATORY. They must finish it BEFORE the session ends.
+These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 
 ## Session 2
 
-Javascript Tutorial - jQuery
-Video tutorial - Introduction to Javascript and jQuery:
-Javascript / jQuery - Introduction to Javascript
-Source code - Source code used in the video.
+Javascript Tutorial - jQuery (coming soon)
+[Video tutorial - Introduction to Javascript and jQuery](https://www.youtube.com/watch?v=W-W8br6VLic)
+Javascript / jQuery - Introduction to Javascript (coming soon)
+Source code - Source code used in the video.(coming soon)
 
 ### Additional resources:
 #### JS official documentation - Mozilla Developer Network<br>
@@ -50,7 +50,7 @@ Javascript Docs
 Official jQuery documentation
 **[jQuery Docs](https://api.jquery.com/)**<br>
 
-#### Javascrip tutorial - w3schools.com
+#### Javascript tutorial - w3schools.com 
 **[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
 Quiz session 2:
@@ -59,7 +59,7 @@ This quiz is MANDATORY. They must finish it BEFORE the session ends.
 
 Tutorial D3.js
 
-**[D3.js](https://youtu.be/0_ZAc1pkaY8)** - Introduction to D3.js<br>
+**[D3.js](https://www.youtube.com/watch?v=4ca1pggm9_w)** - Introduction to D3.js<br>
 
 Additional resources:
 **[Web oficial D3.js](https://d3js.org/)**<br>
