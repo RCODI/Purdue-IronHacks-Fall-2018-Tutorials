@@ -1,7 +1,7 @@
 # Purdue-IronHacks-Fall-2018-Tutorials
 Welcome to the Purdue IronHacks - Fall 2018! 
 
-Next, you will find several turorial videos related to the knowledge necessary to solve the programming challenge that you will have to face. We ask everyone to review all the material before the start of the competition.
+Welcome to RCODI fellowship Fall 2018! These pages aim to introduce you to various technologies that will be required as part of this programming skills to develop.
 
 ### Session 1
 
@@ -66,21 +66,6 @@ These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 
 ## Session 2
 
-Javascript Tutorial - jQuery (coming soon)
-[Video tutorial - Introduction to Javascript and jQuery](https://www.youtube.com/watch?v=W-W8br6VLic)
-Javascript / jQuery - Introduction to Javascript (coming soon)
-Source code - Source code used in the video.(coming soon)
-
-### Additional resources:
-#### JS official documentation - Mozilla Developer Network<br>
-Javascript Docs
-**[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**<br>
-
-Official jQuery documentation
-**[jQuery Docs](https://api.jquery.com/)**<br>
-
-#### Javascript tutorial - w3schools.com 
-**[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
 ### Javascript and jQuery
 ### An official tutorial for Javascript
@@ -102,6 +87,19 @@ Official jQuery documentation
 **[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
 **[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
 
+
+### Additional resources:
+#### JS official documentation - Mozilla Developer Network<br>
+Javascript Docs
+**[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**<br>
+[Video tutorial - Introduction to Javascript and jQuery](https://www.youtube.com/watch?v=W-W8br6VLic)
+
+
+Official jQuery documentation
+**[jQuery Docs](https://api.jquery.com/)**<br>
+
+#### Javascript tutorial - w3schools.com 
+**[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
 Quiz session 2:
 [Quiz - Javascript](https://purdue.ca1.qualtrics.com/jfe/form/SV_d6vKYC5adH5eRO5)  
