@@ -8,7 +8,7 @@ Next, you will find several turorial videos related to the knowledge necessary t
 
 **[HTML and CSS](https://youtu.be/o74YX3koXPY)**<br>
 Video tutorial - Introduction to HTML and CSS:
-HTML and CSS 
+HTML and CSS example [here](https://github.com/RCODI/MrBean_table)
 
 #### Video tutorial - Introduction to Bootstrap:
 **[Bootstrap](https://youtu.be/IdUHGzKSoBI)**<br>
