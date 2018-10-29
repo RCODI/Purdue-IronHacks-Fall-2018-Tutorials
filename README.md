@@ -4,7 +4,7 @@ Welcome to the Purdue IronHacks - Fall 2018!
 
 Welcome to RCODI fellowship Fall 2018! These pages aim to introduce you to various technologies that will be required as part of this programming skills to develop.
 
-### Session 1 - 27/10/2018 02:00PM
+### Session 1 - 27/10/2018 02:00 PM
 
 
 ### An official tutorial for HTML
