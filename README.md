@@ -1,9 +1,10 @@
+
 # Purdue-IronHacks-Fall-2018-Tutorials
 Welcome to the Purdue IronHacks - Fall 2018! 
 
 Welcome to RCODI fellowship Fall 2018! These pages aim to introduce you to various technologies that will be required as part of this programming skills to develop.
 
-### Session 1
+### Session 1 - 27/10/2018 02:00PM
 
 
 ### An official tutorial for HTML
@@ -64,7 +65,7 @@ Bootstrap official website
 [Quiz - Bootstrap](https://purdue.ca1.qualtrics.com/jfe/form/SV_8kLEGnWYncFp4Q5)
 These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 
-## Session 2
+## Session 2 - 03/11/2018 02:00PM
 
 
 ### Javascript and jQuery
@@ -131,9 +132,9 @@ Additional resources:
 **[Web oficial D3.js](https://d3js.org/)**<br>
 
 [Quiz - D3.js](https://purdue.ca1.qualtrics.com/jfe/form/SV_3LfNqeEOUE1qRHT)   
-This quiz is MANDATORY. They must finish it BEFORE the session ends.
+This quiz is MANDATORY. 
 
-## Session 3
+## Session 3 - 10/11/2018 02:00PM
 
 <small><i>(please complete between Nov 1st to Nov 8th)</i></small>
 ### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
