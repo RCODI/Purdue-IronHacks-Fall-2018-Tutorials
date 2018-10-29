@@ -104,7 +104,7 @@ Official jQuery documentation
 
 Quiz session 2:
 [Quiz - Javascript](https://purdue.ca1.qualtrics.com/jfe/form/SV_d6vKYC5adH5eRO5)  
-This quiz is MANDATORY. They must finish it BEFORE the session ends.
+This quiz is MANDATORY. 
 
 ### Tutorial D3.js
 
