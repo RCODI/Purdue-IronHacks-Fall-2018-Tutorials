@@ -65,7 +65,7 @@ Bootstrap official website
 [Quiz - Bootstrap](https://purdue.ca1.qualtrics.com/jfe/form/SV_8kLEGnWYncFp4Q5)
 These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 
-## Session 2 - 03/11/2018 02:00PM
+## Session 2 - 03/11/2018 02:00 PM
 
 
 ### Javascript and jQuery
