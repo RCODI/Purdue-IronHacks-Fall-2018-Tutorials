@@ -136,7 +136,6 @@ This quiz is MANDATORY.
 
 ## Session 3 - 10/11/2018 02:00PM
 
-<small><i>(please complete between Nov 1st to Nov 8th)</i></small>
 ### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
 **[design elements](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** --Learn about design elements<br>
 **[design principles](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** -- Learn about design principles <br>
