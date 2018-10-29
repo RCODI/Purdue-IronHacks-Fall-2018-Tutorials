@@ -134,7 +134,7 @@ Additional resources:
 [Quiz - D3.js](https://purdue.ca1.qualtrics.com/jfe/form/SV_3LfNqeEOUE1qRHT)   
 This quiz is MANDATORY. 
 
-## Session 3 - 10/11/2018 02:00PM
+## Session 3 - 10/11/2018 02:00 PM
 
 ### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
 **[design elements](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** --Learn about design elements<br>
