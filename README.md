@@ -80,7 +80,6 @@ These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
 
 ### Additional Projects link and Videos (if you want to practice more)
-**[Sample Project](session2/)** -- A demo project for Javascript and jQuery using social coding platform<br>
 **[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** --Link to Javascript video 1<br>
 **[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** --Link to Javascript video 2<br>
 **[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** --Link to Javascript video 3<br>
