@@ -113,7 +113,6 @@ This quiz is MANDATORY.
 **[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
 **[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
 **[D3 Training Repository](https://github.com/RCODI/d3_practice)** -- Our own d3 code from the repository used on the training<br>
-**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
 **[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3 in class tutorial helpd on October 25&26th<br>
 **[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes for tutorial in class on October 25th26th<br>
 ### Official Website of d3 library
