@@ -72,6 +72,7 @@ These quizzes are MANDATORY. They must finish it BEFORE November 1, 2018.
 ### An official tutorial for Javascript
 **[JS Tutorial](http://www.w3schools.com/js/)** -- javascript tutorial on w3 school <br>
 **[Javascript Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btOWxmMEFtSkZid00)** -- javascript video 1 on social coding platform<br>
+**[Javascript Training Code](https://github.com/DglyP/IronHacks-trainings/blob/master/Javascript%20Tutorial.html)** -- javascript code from the training session<br>
 **[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)** -- javascript code 1 on social coding platform<br>
 **[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
 **[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
